@@ -8,12 +8,19 @@
     ],
     "license": "MIT",
     "require": {
+<<<<<<< HEAD
         "php": "^7.2",
         "doctrine/dbal": "^2.10",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.2",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^1.1"
+=======
+        "php": "^7.1.3",
+        "fideloper/proxy": "^4.0",
+        "laravel/framework": "5.8.*",
+        "laravel/tinker": "^1.0"
+>>>>>>> 1c384a442e8f2a9139ab1b56770295a020664d6e
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
